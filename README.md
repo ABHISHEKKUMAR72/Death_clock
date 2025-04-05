@@ -1,4 +1,5 @@
-Death Clock  Page 🕒
+Death Clock  Page 🕒:
+
 A modern, minimalist startup page featuring a unique death clock visualization, daily goals, finance tracking, and productivity tools. Perfect for replacing your browser's default new tab page with a meaningful, productivity-focused dashboard.
 
 
@@ -15,4 +16,5 @@ Ambient Sound: Optional ticking sound for ambiance
 Responsive Design: Works seamlessly on all devices
 
 🚀 Live Demo
-Visit the live demo: 
+Visit the live demo: https://abhishekkumar72.github.io/Death_clock/
+
